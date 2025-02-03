@@ -74,7 +74,7 @@ This will start the API on http://127.0.0.1:5000.
 
 ## Deployment
 
-The API is deployed and publicly accessible. You can test the live version of the API at https://zealina-number-api.onrender.com/api/classify-number?number=\<number\>
+The API is deployed and publicly accessible. You can test the live version of the API at https://zealina-number-api.onrender.com/api/classify-number?number=
 
 ## API Specifications
 -   Query Parameter:
