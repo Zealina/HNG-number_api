@@ -24,7 +24,7 @@ Returns a 400 Bad Request if an invalid number is provided.
 
 ## API Endpoint
 
-GET zealina-number-api.onrender.com/api/classify-number?number=<number>
+GET zealina-number-api.onrender.com/api/classify-number?number=\<number\>
 
 ### Example Request:
 
@@ -77,14 +77,9 @@ This will start the API on http://127.0.0.1:5000.
 The API is deployed and publicly accessible. You can test the live version of the API at https://zealina-number-api.onrender.com/api/classify-number?number=<number>
 
 ## API Specifications
-
-    - Query Parameter:
-
+-   Query Parameter:
 number: The number to classify (integer only).
 
-
-    - Response Format:
-
+-   Response Format:
 200 OK: A valid response containing mathematical facts about the number.
-
 400 Bad Request: When the provided number is not valid (e.g., non-numeric value).
