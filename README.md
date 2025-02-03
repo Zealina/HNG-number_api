@@ -4,7 +4,7 @@
 Create an API that takes a number and returns interesting mathematical properties about it, along with a fun fact.
 
 ## API Specification
- Endpoint: GET** <your-domain.com>/api/classify-number?number=371
+ Endpoint: GET** zealina-number-api.onrender.com/api/classify-number?number=371
  ```json
  Required JSON Response Format (200 OK):
  {
