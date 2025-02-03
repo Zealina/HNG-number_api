@@ -5,7 +5,7 @@ Create an API that takes a number and returns interesting mathematical propertie
 
 ## API Specification
  Endpoint: GET** <your-domain.com>/api/classify-number?number=371
- ```
+ ```json
  Required JSON Response Format (200 OK):
  {
      "number": 371,
@@ -15,11 +15,11 @@ Create an API that takes a number and returns interesting mathematical propertie
      "digit_sum": 11,  // sum of its digits
      "fun_fact": "371 is an Armstrong number because 3^3 + 7^3 + 1^3 = 371" //gotten from the numbers API
  }
- ```json
- Required JSON Response Format (400 Bad Request)
  ```
+ Required JSON Response Format (400 Bad Request)
+ ```json
  {
      "number": "alphabet",
      "error": true
  }
- ```json
+ ```
