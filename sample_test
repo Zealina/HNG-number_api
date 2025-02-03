@@ -1,0 +1,1013 @@
+[
+    {
+        "digit_sum": 18,
+        "fun_fact": "99 is a common price ending in psychological pricing.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 99,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 2,
+        "fun_fact": "101 is the number identifying number of several infantry units in various militaries across the world, such as the American and Israeli paratrooper brigades.",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 101,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 4,
+        "fun_fact": "103 is the atomic number of lawrencium, an actinide.",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 103,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 6,
+        "fun_fact": "105 is the atomic number of hahnium, also known as dubnium.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 105,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 8,
+        "fun_fact": "107 is the atomic number of bohrium.",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 107,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 10,
+        "fun_fact": "109 is the atomic number of meitnerium.",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 109,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 3,
+        "fun_fact": "111 is the lowest positive integer requiring six syllables to name in American English, or seven syllables (including \"and\") in Canadian and British English.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 111,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 5,
+        "fun_fact": "113 is a number considred unlucky in enduro, given to a race entrant and is colloquially known as a \"blind pew\".",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 113,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 7,
+        "fun_fact": "115 is the atomic number of an element temporarily called ununpentium.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 115,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 9,
+        "fun_fact": "117 is the serial number of protagonist John from the Halo Series.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 117,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 11,
+        "fun_fact": "119 is a number to report children / youth at risk in France.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 119,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 4,
+        "fun_fact": "121 is the number for voicemail for mobile phones on the Vodafone network.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 121,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 6,
+        "fun_fact": "123 is the telephone number of the speaking clock for the correct time in the United Kingdom.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 123,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 8,
+        "fun_fact": "125 is years in a quasquicentennial.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 125,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 10,
+        "fun_fact": "127 is the atomic number of Unbiseptium, an element that has not yet been discovered.",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 127,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 12,
+        "fun_fact": "129 is the atomic number of Unbiennium, an element yet to be discovered.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 129,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 5,
+        "fun_fact": "131 is the medical emergency telephone number in Chile.",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 131,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 7,
+        "fun_fact": "133 is the number of episodes of the TV series Good Times ran on CBS from 1974 to 1979.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 133,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 9,
+        "fun_fact": "135 is the angle between two planets in degrees so that they are in an astrological aspect called a sesquiquadrate.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 135,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 11,
+        "fun_fact": "137 is the California Penal Code for \"Offer bribe to influence testimony\".",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 137,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 13,
+        "fun_fact": "139 is the atomic number of Untriennium, an unsynthesized chemical element.",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 139,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 6,
+        "fun_fact": "141 is the number of participants (90 Indians and 51 Pilgrims) at the First Thanksgiving.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 141,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 8,
+        "fun_fact": "143 is the number of episodes of the TV series The Adventures of Robin Hood on CBS from 1955 to 1959.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 143,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 10,
+        "fun_fact": "145 is the atomic number of Unquadpentium.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 145,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 12,
+        "fun_fact": "147 is the final score of the losing team in the NBA game in which Wilt Chamberlain scored 100 points.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 147,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 14,
+        "fun_fact": "149 is the number of goals a Madagascar soccer team scored against itself after the coach argued a call, and players kicked the ball into their own net 149 times.",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 149,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 7,
+        "fun_fact": "151 is the total number of Pok\u00e9mon in the original set, counting Mewtwo and Mew.",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 151,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 9,
+        "fun_fact": "153 is the ordinal number of the coat of arms of Komi Republic in the State Heraldic Register of the Russian Federation.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 153,
+        "properties": [
+            "odd",
+            "armstrong"
+        ]
+    },
+    {
+        "digit_sum": 11,
+        "fun_fact": "155 is the number of episodes the TV series Sea Hunt ran in syndication from 1958 to 1961.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 155,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 13,
+        "fun_fact": "157 is the elevation in meters of Atalanti Island in the North Euboean Gulf of the Aegean Sea.",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 157,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 15,
+        "fun_fact": "159 is the number of counties in the state of Georgia.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 159,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 8,
+        "fun_fact": "161 is the number of different ways to bet on a roulette wheel.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 161,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 10,
+        "fun_fact": "163 is the atomic number of an element temporarily called Unhextrium.",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 163,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 12,
+        "fun_fact": "165 is the number of episodes that the TV show Daniel Boone ran on NBC from 1964 to 1970.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 165,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 14,
+        "fun_fact": "167 is the number of tennis titles that Martina Navratilova has, which is an all-time record for men or women.",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 167,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 16,
+        "fun_fact": "169 is the first number of an automatic IPv4 address assigned by TCP/IP when no external networking device is contactable.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 169,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 9,
+        "fun_fact": "171 is the atomic number of an element called Ununseptunium.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 171,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 11,
+        "fun_fact": "173 is years it takes for all the water in Lake Superior to be changed.",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 173,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 13,
+        "fun_fact": "175 is the atomic number of an element temporarily called Unseptpentium.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 175,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 15,
+        "fun_fact": "177 is the second highest possible score in darts that can be obtained by throwing three darts in a single visit to the oche.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 177,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 17,
+        "fun_fact": "179 is the rank of Guam in world population.",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 179,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 10,
+        "fun_fact": "181 is the wing area of a Boeing 757 airplane in meters.",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 181,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 12,
+        "fun_fact": "183 is the rank of Laos in countries by population density.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 183,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 14,
+        "fun_fact": "185 is the record number of singles hit by St. Louis Cardinals Jesse Burkett in 1899.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 185,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 16,
+        "fun_fact": "187 is the atomic number of an element temporarily called Unoctseptium.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 187,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 18,
+        "fun_fact": "189 is the rank of Brazil in population density.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 189,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 11,
+        "fun_fact": "191 is a common flight number for flights involved in crashes.",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 191,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 13,
+        "fun_fact": "193 is the number of member states of the United Nations as of 2011.",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 193,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 15,
+        "fun_fact": "195 is the speed in miles per hour at which Canadian race car driver Francis Affleck was driving when his car rolled over and died on February 7, 1985.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 195,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 17,
+        "fun_fact": "197 is the number of years that Fu Xi lived for altogether.",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 197,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 19,
+        "fun_fact": "199 is steps to the top of the Cape May Lighthouse in Cape May, New Jersey.",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 199,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 3,
+        "fun_fact": "201 is the HTTP status code indicating a new resource was successfully created in response to the request.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 201,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 5,
+        "fun_fact": "203 is the HTTP status code indicating partial information.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 203,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 7,
+        "fun_fact": "205 is the world speed record (mph) of a car on ice.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 205,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 9,
+        "fun_fact": "207 is the area code for the US state of Maine.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 207,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 11,
+        "fun_fact": "209 is the basketball record for most three pointers in a row.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 209,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 4,
+        "fun_fact": "211 is a nickname for Steel Reserve, a malt liquor alcholic beverage.",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 211,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 6,
+        "fun_fact": "213 is one of the first three area codes created in California.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 213,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 8,
+        "fun_fact": "215 is the Dewey Decimal Classification for Science and religion.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 215,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 10,
+        "fun_fact": "217 is the area code for central Illinois.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 217,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 12,
+        "fun_fact": "219 is an unremarkable number.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 219,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 5,
+        "fun_fact": "221 is the house number on Baker Street of the fictional London residence of Sherlock Holmes.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 221,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 7,
+        "fun_fact": "223 is an uninteresting number.",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 223,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 9,
+        "fun_fact": "225 is the longest distance in miles a deepwater lobster has been recorded to travel.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 225,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 11,
+        "fun_fact": "227 is the number of days Pi Patel was at sea in the popular novel, Life of Pi.",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 227,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 13,
+        "fun_fact": "229 is the lowest individual batting score not achieved by any player in test match cricket.",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 229,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 6,
+        "fun_fact": "231 is the number of cubic inches in a U.S. liquid gallon.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 231,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 8,
+        "fun_fact": "233 is an uninteresting number.",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 233,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 10,
+        "fun_fact": "235 is the number of three interstate highways in the United States, located in the states of Iowa, Kansas, and Oklahoma.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 235,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 12,
+        "fun_fact": "237 is an unremarkable number.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 237,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 14,
+        "fun_fact": "239 is the atomic mass number of the most common isotope of plutonium.",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 239,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 7,
+        "fun_fact": "241 is a boring number.",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 241,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 9,
+        "fun_fact": "243 is the number of Earth Days for the planet Venus to complete one Venetian day, one revolution.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 243,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 11,
+        "fun_fact": "245 is the number of Jewish singers who returned from captivity in Babylon in circa 538 BCE BC following the rise of Cyrus the Great and the Persian Empire.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 245,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 13,
+        "fun_fact": "247 is an uninteresting number.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 247,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 15,
+        "fun_fact": "249 is an unremarkable number.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 249,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 8,
+        "fun_fact": "251 is the last and most powerful prime mover (engine) designed and built by the American Locomotive Company (ALCO).",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 251,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 10,
+        "fun_fact": "253 is an unremarkable number.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 253,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 12,
+        "fun_fact": "255 is the largest values that can be assigned to elements in the 24-bit RGB color model, since each color channel is allotted eight bits.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 255,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 14,
+        "fun_fact": "257 is an uninteresting number.",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 257,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 16,
+        "fun_fact": "259 is an unremarkable number.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 259,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 9,
+        "fun_fact": "261 is number of possible unfolded tesseract patterns.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 261,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 11,
+        "fun_fact": "263 is an uninteresting number.",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 263,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 13,
+        "fun_fact": "265 is an uninteresting number.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 265,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 15,
+        "fun_fact": "267 is the number of groups of order 64.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 267,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 17,
+        "fun_fact": "269 is an unremarkable number.",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 269,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 10,
+        "fun_fact": "271 is an unremarkable number.",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 271,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 12,
+        "fun_fact": "273 is the death toll of the air crash of American Airlines Flight 191.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 273,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 14,
+        "fun_fact": "275 is a boring number.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 275,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 16,
+        "fun_fact": "277 is a boring number.",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 277,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 18,
+        "fun_fact": "279 is an uninteresting number.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 279,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 11,
+        "fun_fact": "281 is an uninteresting number.",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 281,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 13,
+        "fun_fact": "283 is an unremarkable number.",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 283,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 15,
+        "fun_fact": "285 is the total number of Rules of Acquisition in Star Trek.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 285,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 17,
+        "fun_fact": "287 is an uninteresting number.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 287,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 19,
+        "fun_fact": "289 is a boring number.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 289,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 12,
+        "fun_fact": "291 is a boring number.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 291,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 14,
+        "fun_fact": "293 is a boring number.",
+        "is_perfect": false,
+        "is_prime": true,
+        "number": 293,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 16,
+        "fun_fact": "295 is the numerical designation of seven circumfrental or half-circumfrental routes of Interstate 95 in the United States.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 295,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 18,
+        "fun_fact": "297 is an uninteresting number.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 297,
+        "properties": [
+            "odd"
+        ]
+    },
+    {
+        "digit_sum": 20,
+        "fun_fact": "299 is an unremarkable number.",
+        "is_perfect": false,
+        "is_prime": false,
+        "number": 299,
+        "properties": [
+            "odd"
+        ]
+    }
+]
