@@ -5,8 +5,9 @@ Create an API that takes a number and returns interesting mathematical propertie
 
 ## API Specification
  Endpoint: GET** zealina-number-api.onrender.com/api/classify-number?number=371
- ```json
+
  Required JSON Response Format (200 OK):
+ ```json
  {
      "number": 371,
      "is_prime": false,
